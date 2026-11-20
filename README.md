@@ -28,6 +28,12 @@ I bring **7+ years of software development experience**, including production ba
 
 ### Selected work
 
+#### [ctxnazar](https://github.com/hanzales/ctxnazar)
+
+A lightweight, local-first CLI that detects secrets and sensitive information in AI agent context files such as `AGENTS.md`, `CLAUDE.md`, and `SKILL.md`. It uses deterministic rules, masks findings, supports CI-friendly JSON output, and never uploads scanned content.
+
+`TypeScript` · `Node.js` · `AI Security` · `Secret Scanning` · `Developer Tools`
+
 #### [MCP Guardian](https://github.com/hanzales/mcp-guardian)
 
 A security scanner and policy-gateway foundation for the Model Context Protocol. It detects risky package resolution, embedded credentials, broad filesystem access, dangerous launch patterns, and insecure remote transports—then produces deterministic text or JSON reports for local and CI use.
