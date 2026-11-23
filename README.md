@@ -67,6 +67,7 @@ Reusable .NET tooling published for developers working with AI security, Dapper,
 **MCP security**
 
 - [McpGuardian.Tool](https://www.nuget.org/packages/McpGuardian.Tool)
+- [McpGuardian.Runtime](https://www.nuget.org/packages/McpGuardian.Runtime)
 
 ### Toolbox
 
