@@ -46,6 +46,28 @@ A .NET migration-intelligence toolkit that analyzes solutions and dependency gra
 
 `C#` · `.NET` · `Roslyn` · `Software Architecture` · `AI Agents`
 
+### NuGet packages
+
+Reusable .NET tooling published for developers working with AI security, Dapper, and SQL Server:
+
+**DapperQueryGuard**
+
+- [Hanzales.DapperQueryGuard.Core](https://www.nuget.org/packages/Hanzales.DapperQueryGuard.Core)
+- [Hanzales.DapperQueryGuard.Schema](https://www.nuget.org/packages/Hanzales.DapperQueryGuard.Schema)
+- [Hanzales.DapperQueryGuard.Analyzers](https://www.nuget.org/packages/Hanzales.DapperQueryGuard.Analyzers)
+- [Hanzales.DapperQueryGuard.CodeFixes](https://www.nuget.org/packages/Hanzales.DapperQueryGuard.CodeFixes)
+
+**QueryDrift**
+
+- [QueryDrift.Core](https://www.nuget.org/packages/QueryDrift.Core)
+- [QueryDrift.Dapper](https://www.nuget.org/packages/QueryDrift.Dapper)
+- [QueryDrift.OpenTelemetry](https://www.nuget.org/packages/QueryDrift.OpenTelemetry)
+- [QueryDrift.Cli](https://www.nuget.org/packages/QueryDrift.Cli)
+
+**MCP security**
+
+- [McpGuardian.Tool](https://www.nuget.org/packages/McpGuardian.Tool)
+
 ### Toolbox
 
 **Languages & backend**
